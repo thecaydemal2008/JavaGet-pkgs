@@ -1,0 +1,15 @@
+#Main structure, see below for guide:
+#Created: 7/25/2021; 12:50 PM a.k.a. 50 past noon
+
+#Just the name of the software
+software-name= notepad++
+
+#The version of the software, this is necessary!
+software-version= 8.1.2
+
+#Leave this as is
+software-type= win32/i386
+
+#Link to installer
+soft-link= https://github.com/thecaydemal2008/JavaGet-pkgs/blob/master/software/npp.8.1.2.Installer.exe
+
